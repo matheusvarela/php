@@ -11,8 +11,10 @@ and open the template in the editor.
     </head>
     <body>
         <?php
+
          echo "olá mundo 321";
-		 echo "Olá varela"
+		 echo "Olá varela e matheus"
+
         ?>
     </body>
 </html>
